@@ -490,15 +490,16 @@ body {
     }
 
     .menu__link,
-    .bike__link{
+    .bike__link {
         transition: all 0s;
     }
 
-    .menu__link:hover{
+    .menu__link:hover {
         background-color: #fff;
         color: #131313;
     }
-    .bike__link:hover{
+
+    .bike__link:hover {
         background-color: #131313;
         color: #fff;
     }
@@ -714,11 +715,12 @@ body {
         padding: 15px 0;
         text-align: center;
     }
+
     .footer__social {
         padding: 15px 0;
     }
 
-    .footer__contacts{
+    .footer__contacts {
         display: flex;
         flex-direction: column;
         align-items: center;
